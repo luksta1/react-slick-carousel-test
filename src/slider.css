@@ -1,0 +1,23 @@
+.slider {
+  max-width: 897px;
+  width: 100%;
+  margin: auto;
+}
+
+.slider img {
+  width: 100%;
+}
+
+.slick-prev,
+.slick-next,
+.slick-prev:hover,
+.slick-next:hover  {
+  background-color: #000;
+}
+
+.slide-holder .inner {
+  margin: .6em;
+}
+/* .slick-initialized .slick-slide {
+  margin: 20px;
+} */
